@@ -1,11 +1,11 @@
-
+﻿
 ____ Plugin Name ____
 
 Payco, paga y cobra online.
 
 ____ Description ____
 
-Versión desarrollada para Wordpress versión 4.1, Woocommerce versión 2.3.1. para mejor estabilidad 
+Versión desarrollada para Wordpress versión 4.1, Woocommerce versión 3.3.5. para mejor estabilidad 
 y compatibilidad probar en las versiones indicadas.
 
 ____ Install ____
